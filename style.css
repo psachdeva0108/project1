@@ -576,7 +576,7 @@ body {
     cursor: pointer;
     transition-delay: .2s;
 }
-.services-video img img:hover{
+.services-video img:hover{
     transition-delay: .2s;
     transform: scale(.97);
     opacity: 1;
